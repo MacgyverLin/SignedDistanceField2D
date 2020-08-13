@@ -1,0 +1,413 @@
+﻿  main.cpp
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec3.h(161,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec3.h(236,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec3.h(235,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec3.h(234,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec3.h(246,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec3.h(245,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec3.h(244,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec3.h(256,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec3.h(255,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec3.h(254,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec3.h(266,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec3.h(265,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec3.h(264,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\bitmap.h(84,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\bitmap.h(85,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\bitmap.h(86,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\bitmap.h(112,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\bitmap.h(113,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\bitmap.h(114,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\bitmap.h(134,29): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\bitmap.h(135,29): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\bitmap.h(136,29): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\bitmap.h(198,29): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\bitmap.h(199,29): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\bitmap.h(200,29): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(138,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(190,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(190,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(195,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(195,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(231,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(230,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(240,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(239,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(249,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(248,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(258,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(257,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(441,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(521,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(520,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(519,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(518,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(532,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(531,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(530,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(529,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(543,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(542,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(541,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(540,7): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(554,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(553,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(552,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(551,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(722,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\vec2.h(723,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(50,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(50,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(56,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(56,16): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(70,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(72,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(79,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(93,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(97,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(102,62): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(104,14): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(105,14): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(112,55): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(114,14): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(121,66): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(123,14): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(124,14): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(131,71): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(133,14): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(134,14): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(141,57): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(144,14): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(145,14): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(156,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(157,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(158,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(158,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(159,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(159,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(162,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(163,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(163,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(176,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(180,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(181,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(197,53): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(215,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(221,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(221,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(226,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(241,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(274,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(275,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(281,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(282,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(283,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(284,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(285,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(286,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(290,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(291,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(292,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(293,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(294,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(295,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(296,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(298,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(305,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(306,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(307,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(309,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(310,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(320,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(321,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(323,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(324,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(338,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(340,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(345,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(346,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(349,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(357,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(358,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(359,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(360,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(367,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(396,13): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(397,33): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(401,13): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(402,34): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(406,13): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(407,33): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(412,54): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(412,30): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(413,14): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(414,14): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(415,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(424,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(433,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(433,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(433,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(433,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(433,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(488,74): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(494,74): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(506,74): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(535,54): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(540,74): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(546,74): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(557,96): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(565,73): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(569,69): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(569,87): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(573,65): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(573,81): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(577,63): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(585,73): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(640,82): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\util.h(42,29): warning C4244: 'return': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(415): message : see reference to function template instantiation 'T smoothstep<float>(const T &,const T &,const T &)' being compiled
+          with
+          [
+              T=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\type_traits(1610,1): warning C4244: 'argument': conversion from '_Cv_TiD' to 'float', possible loss of data
+          with
+          [
+              _Cv_TiD=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\type_traits(1610): message : see reference to function template instantiation 'float std::_Invoker_functor::_Call<float(__cdecl *&)(vec2,float,float,float),_Ty,_Cv_TiD&,_Cv_TiD&,_Cv_TiD&>(_Callable,_Ty &&,_Cv_TiD &,_Cv_TiD &,_Cv_TiD &) noexcept(false)' being compiled
+          with
+          [
+              _Ty=vec2,
+              _Cv_TiD=double,
+              _Callable=float (__cdecl *&)(vec2,float,float,float)
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\type_traits(1644): message : see reference to function template instantiation 'float std::invoke<float(__cdecl *&)(vec2,float,float,float),_Ty,_Cv_TiD&,_Cv_TiD&,_Cv_TiD&>(_Callable,_Ty &&,_Cv_TiD &,_Cv_TiD &,_Cv_TiD &) noexcept(false)' being compiled
+          with
+          [
+              _Ty=vec2,
+              _Cv_TiD=double,
+              _Callable=float (__cdecl *&)(vec2,float,float,float)
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(1431): message : see reference to function template instantiation 'float std::_Invoker_ret<std::_Unforced,false>::_Call<float(__cdecl *&)(vec2,float,float,float),_Ty,_Cv_TiD&,_Cv_TiD&,_Cv_TiD&>(float (__cdecl *&)(vec2,float,float,float),_Ty &&,_Cv_TiD &,_Cv_TiD &,_Cv_TiD &)' being compiled
+          with
+          [
+              _Ty=vec2,
+              _Cv_TiD=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(1473): message : see reference to function template instantiation 'float std::_Call_binder<std::_Unforced,0,1,2,3,float(__cdecl *)(vec2,float,float,float),_Ty2,std::tuple<_Ty &&>>(std::_Invoker_ret<std::_Unforced,false>,std::integer_sequence<size_t,0,1,2,3>,_Cv_FD &,_Cv_tuple_TiD &,_Untuple &&)' being compiled
+          with
+          [
+              _Ty2=std::tuple<std::_Ph<1>,double,double,double>,
+              _Ty=vec2,
+              _Cv_FD=float (__cdecl *)(vec2,float,float,float),
+              _Cv_tuple_TiD=std::tuple<std::_Ph<1>,double,double,double>,
+              _Untuple=std::tuple<vec2 &&>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\type_traits(1610): message : see reference to function template instantiation 'float std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>::operator ()<_Ty>(_Ty &&)' being compiled
+          with
+          [
+              _Ty=vec2
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\type_traits(1610): message : see reference to function template instantiation 'float std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>::operator ()<_Ty>(_Ty &&)' being compiled
+          with
+          [
+              _Ty=vec2
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\type_traits(1610): message : see reference to function template instantiation 'float std::_Invoker_functor::_Call<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>&,_Ty>(_Callable,_Ty &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=vec2,
+              _Callable=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double> &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\type_traits(1635): message : see reference to function template instantiation 'float std::invoke<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>&,vec2>(_Callable,vec2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Callable=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double> &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(925): message : see reference to function template instantiation '_Rx std::_Invoker_ret<_Rx,false>::_Call<_Callable&,_Ty>(_Callable &,_Ty &&)' being compiled
+          with
+          [
+              _Rx=float,
+              _Callable=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>,
+              _Ty=vec2
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(926): message : see reference to function template instantiation '_Rx std::_Invoker_ret<_Rx,false>::_Call<_Callable&,_Ty>(_Callable &,_Ty &&)' being compiled
+          with
+          [
+              _Rx=float,
+              _Callable=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>,
+              _Ty=vec2
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(925): message : while compiling class template member function '_Rx std::_Func_impl_no_alloc<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>,_Rx,vec2>::_Do_call(vec2 &&)'
+          with
+          [
+              _Rx=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(807): message : see reference to class template instantiation 'std::_Func_impl_no_alloc<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>,_Ret,vec2>' being compiled
+          with
+          [
+              _Ret=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(1019): message : see reference to variable template 'const bool _Is_large<std::_Func_impl_no_alloc<std::_Binder<std::_Unforced,float (__cdecl&)(vec2,float,float,float),std::_Ph<1> const &,double,double,double>,float,vec2> >' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(1155): message : see reference to function template instantiation 'void std::_Func_class<_Ret,vec2>::_Reset<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>>(_Fx &&)' being compiled
+          with
+          [
+              _Ret=float,
+              _Fx=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(1155): message : see reference to function template instantiation 'void std::_Func_class<_Ret,vec2>::_Reset<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>>(_Fx &&)' being compiled
+          with
+          [
+              _Ret=float,
+              _Fx=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(1210): message : see reference to function template instantiation 'std::function<float (vec2)>::function<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>,0>(_Fx)' being compiled
+          with
+          [
+              _Fx=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(1210): message : see reference to function template instantiation 'std::function<float (vec2)>::function<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>,0>(_Fx)' being compiled
+          with
+          [
+              _Fx=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>
+          ]
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(518): message : see reference to function template instantiation 'std::function<float (vec2)> &std::function<float (vec2)>::operator =<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>,0>(_Fx &&)' being compiled
+          with
+          [
+              _Fx=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>
+          ]
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(518): message : see reference to function template instantiation 'std::function<float (vec2)> &std::function<float (vec2)>::operator =<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>,0>(_Fx &&)' being compiled
+          with
+          [
+              _Fx=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,float,float,float),const std::_Ph<1> &,double,double,double>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\type_traits(1610,1): warning C4244: 'argument': conversion from '_Cv_TiD' to 'float', possible loss of data
+          with
+          [
+              _Cv_TiD=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\type_traits(1610): message : see reference to function template instantiation 'float std::_Invoker_functor::_Call<float(__cdecl *&)(vec2,vec2,vec2,float),_Ty,_Cv_TiD&,_Cv_TiD&,int&>(_Callable,_Ty &&,_Cv_TiD &,_Cv_TiD &,int &) noexcept(false)' being compiled
+          with
+          [
+              _Ty=vec2,
+              _Cv_TiD=vec2,
+              _Callable=float (__cdecl *&)(vec2,vec2,vec2,float)
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\type_traits(1644): message : see reference to function template instantiation 'float std::invoke<float(__cdecl *&)(vec2,vec2,vec2,float),_Ty,_Cv_TiD&,_Cv_TiD&,int&>(_Callable,_Ty &&,_Cv_TiD &,_Cv_TiD &,int &) noexcept(false)' being compiled
+          with
+          [
+              _Ty=vec2,
+              _Cv_TiD=vec2,
+              _Callable=float (__cdecl *&)(vec2,vec2,vec2,float)
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(1431): message : see reference to function template instantiation 'float std::_Invoker_ret<std::_Unforced,false>::_Call<float(__cdecl *&)(vec2,vec2,vec2,float),_Ty,_Cv_TiD&,_Cv_TiD&,int&>(float (__cdecl *&)(vec2,vec2,vec2,float),_Ty &&,_Cv_TiD &,_Cv_TiD &,int &)' being compiled
+          with
+          [
+              _Ty=vec2,
+              _Cv_TiD=vec2
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(1473): message : see reference to function template instantiation 'float std::_Call_binder<std::_Unforced,0,1,2,3,float(__cdecl *)(vec2,vec2,vec2,float),_Ty2,std::tuple<_Ty &&>>(std::_Invoker_ret<std::_Unforced,false>,std::integer_sequence<size_t,0,1,2,3>,_Cv_FD &,_Cv_tuple_TiD &,_Untuple &&)' being compiled
+          with
+          [
+              _Ty2=std::tuple<std::_Ph<1>,vec2,vec2,int>,
+              _Ty=vec2,
+              _Cv_FD=float (__cdecl *)(vec2,vec2,vec2,float),
+              _Cv_tuple_TiD=std::tuple<std::_Ph<1>,vec2,vec2,int>,
+              _Untuple=std::tuple<vec2 &&>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\type_traits(1610): message : see reference to function template instantiation 'float std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>::operator ()<_Ty>(_Ty &&)' being compiled
+          with
+          [
+              _Ty=vec2
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\type_traits(1610): message : see reference to function template instantiation 'float std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>::operator ()<_Ty>(_Ty &&)' being compiled
+          with
+          [
+              _Ty=vec2
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\type_traits(1610): message : see reference to function template instantiation 'float std::_Invoker_functor::_Call<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>&,_Ty>(_Callable,_Ty &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=vec2,
+              _Callable=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int> &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\type_traits(1635): message : see reference to function template instantiation 'float std::invoke<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>&,vec2>(_Callable,vec2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Callable=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int> &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(925): message : see reference to function template instantiation '_Rx std::_Invoker_ret<_Rx,false>::_Call<_Callable&,_Ty>(_Callable &,_Ty &&)' being compiled
+          with
+          [
+              _Rx=float,
+              _Callable=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>,
+              _Ty=vec2
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(926): message : see reference to function template instantiation '_Rx std::_Invoker_ret<_Rx,false>::_Call<_Callable&,_Ty>(_Callable &,_Ty &&)' being compiled
+          with
+          [
+              _Rx=float,
+              _Callable=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>,
+              _Ty=vec2
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(925): message : while compiling class template member function '_Rx std::_Func_impl_no_alloc<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>,_Rx,vec2>::_Do_call(vec2 &&)'
+          with
+          [
+              _Rx=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(807): message : see reference to class template instantiation 'std::_Func_impl_no_alloc<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>,_Ret,vec2>' being compiled
+          with
+          [
+              _Ret=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(1019): message : see reference to variable template 'const bool _Is_large<std::_Func_impl_no_alloc<std::_Binder<std::_Unforced,float (__cdecl&)(vec2,vec2,vec2,float),std::_Ph<1> const &,vec2,vec2,int>,float,vec2> >' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(1155): message : see reference to function template instantiation 'void std::_Func_class<_Ret,vec2>::_Reset<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>>(_Fx &&)' being compiled
+          with
+          [
+              _Ret=float,
+              _Fx=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(1155): message : see reference to function template instantiation 'void std::_Func_class<_Ret,vec2>::_Reset<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>>(_Fx &&)' being compiled
+          with
+          [
+              _Ret=float,
+              _Fx=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(1210): message : see reference to function template instantiation 'std::function<float (vec2)>::function<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>,0>(_Fx)' being compiled
+          with
+          [
+              _Fx=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.25.28610\include\functional(1210): message : see reference to function template instantiation 'std::function<float (vec2)>::function<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>,0>(_Fx)' being compiled
+          with
+          [
+              _Fx=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>
+          ]
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(569): message : see reference to function template instantiation 'std::function<float (vec2)> &std::function<float (vec2)>::operator =<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>,0>(_Fx &&)' being compiled
+          with
+          [
+              _Fx=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>
+          ]
+G:\RayTracingFromGroundUp\RayTracingFromGroundUp\RayTracingFromGroundUp\main.cpp(569): message : see reference to function template instantiation 'std::function<float (vec2)> &std::function<float (vec2)>::operator =<std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>,0>(_Fx &&)' being compiled
+          with
+          [
+              _Fx=std::_Binder<std::_Unforced,float (__cdecl &)(vec2,vec2,vec2,float),const std::_Ph<1> &,vec2,vec2,int>
+          ]
+  RayTracingFromGroundUp.vcxproj -> G:\RayTracingFromGroundUp\RayTracingFromGroundUp\Debug\RayTracingFromGroundUp.exe
